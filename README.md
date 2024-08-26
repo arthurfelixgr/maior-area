@@ -19,12 +19,12 @@ Saída: 6
 ### Elementos envolvidos
 Para que se entenda a solução do problema, é preciso identificar os elementos envolvidos na abordagem, a saber:
 
-- Sequências
+- Sequências:  
 Numa mesma linha, são séries compostas por 1 a n elementos do dígito "1", sem interrupção. 
-- Retângulos
+- Retângulos:  
 São conjuntos de sequências que se repetem em linhas consecutivas.
 
-Por exemplo, na entrada fornecida acima é possível identificar na segunda linha uma sequência de 3 unidades, a qual se repete na linha reguinte, num total de duas repetições dessa sequência, o que configura um retângulo de base 3 e altura 2, resultando numa área de 6 unidades. 
+Por exemplo, na entrada fornecida acima é possível identificar na segunda linha uma sequência de 3 unidades, a qual se repete na linha seguinte, num total de duas repetições dessa sequência, o que configura um retângulo de base 3 e altura 2, resultando numa área de 6 unidades.  
 Na terceira linha temos também a sequencia de 5 unidades, porém ela não se repete nas linhas vizinhas, resultando num retângulo de altura 1 e base 5, totalizando 5 unidades de área. Portanto, percebe-se que o retângulo descrito anteriormente possui área maior. 
 
 # Uso
