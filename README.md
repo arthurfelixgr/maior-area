@@ -45,7 +45,7 @@ retangulo.sh entrada.txt
 
 O resultada será exibido na saída. 
 Por exemplo: 
-
+![Alt text](https://raw.githubusercontent.com/arthurfelixgr/maior-area/main/exemplo.png "print exemplo")
 
 # Créditos
 Escrito por Arthur Grassi em agosto de 2024. 
